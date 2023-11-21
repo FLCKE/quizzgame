@@ -1,0 +1,56 @@
+body{
+    fill-opacity: 20%;
+}
+#intro{
+    margin:10% 30%;
+    /* box-shadow:inset red 2px; */
+    box-shadow: 2px 2px 2px 2px rgba(0, 0, 0, 0.185);
+    border-radius: 20px;
+    height: 300px;
+    opacity: 100%;
+}
+
+#info{
+    padding: 10% 30%;
+    opacity: 100%;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+h1{
+    font-size: 50px;
+    margin-inline: 5%;
+    color: rgb(90, 90, 224);
+    
+}
+button{
+    width: 100px;
+    background: rgb(90, 90, 224);
+    font-size: 20px;
+    color: white;
+    border: none;
+    border-radius: 10px;
+    margin-inline:25%;
+}
+#info_score{
+    display:flex;
+    justify-content: space-between;
+    padding-inline: 10%;
+}
+#question{
+    padding-inline: 5%;
+}
+#reponse{
+    width: 90%;
+    margin-left: 3%;
+    border-radius: 20px;
+    border: 2px black solid;
+    height: 20px;
+    padding-left: 2%;
+}
+#play{
+    margin-top: 20px;
+    margin-inline: 38%;
+
+}
