@@ -16,10 +16,10 @@ Sur cette page nous avons une petite fenetre ou se trouve:
 Une question vous sera posé et vous devez bien y répondre pour accéder  à la question suivante.
 Ces question sont des question de calcul a chaque bonne réponce vos point augmante et a chaque mauvaise votre vie diminue
 
-#Comment avoir le jeu 
-    -Installer Live Server dans votre visuall studio code
-    -Faire git clone 
-        git clone https://github.com/FLCKE/quizzgame.git
-    -Ouvrir dans votre VS code 
-    -Lancer votre Live server 
-    -Jouer
+#Comment avoir le jeu: 
+- Installer Live Server dans votre visuall studio code
+- Faire git clone: 
+    "git clone https://github.com/FLCKE/quizzgame.git"
+- Ouvrir dans votre VS code 
+- Lancer votre Live server 
+- Jouer
